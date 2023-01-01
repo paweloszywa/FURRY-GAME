@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/paweloszywa/KAT_FER_S_12_REACT_Furry_Game#readme",
   "devDependencies": {
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "serialize-javascript": ">=2.1.1"
   }
 }
